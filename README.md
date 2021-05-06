@@ -7,7 +7,7 @@ Mein Kunde in Hamburg befindet sich gerade im 7. Sprint eines neuen Projekts in 
 
 Das Frontend wird in vue.js programmiert. Die Basis ist Amazon Web Services wie Lambda, DynamoDB, Kinesis und Amplify oder Serverless.com. Das Team soll mit zwei SW Entwicklern erweitert werden. 
 
-Das wird geboten: 
+Das wird geboten:
 ✅ Pandemie-sicherer Arbeitgeber
 ✅ 37 Urlaubstage
 ✅ 38,5 Stundenwoche 
